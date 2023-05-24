@@ -10,7 +10,7 @@ The pictures show the final dashboard in action
 
 See the GIF in action here
 
-<img src=https://github.com/CharlotteGIS/Dashboard-Production-Statistics/assets/127988577/da4244b3-344a-4cf0-ad9e-d1e018ddc2b8 width="1000" height="600" />
+<img src=https://github.com/CharlotteGIS/Dashboard-Production-Statistics/assets/127988577/da4244b3-344a-4cf0-ad9e-d1e018ddc2b8 width="1000" height="500" />
 
 
 
